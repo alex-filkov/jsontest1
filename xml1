@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <record>
+     <greeting>Hello Greting1</greeting>
+	 <sender>Hello Sender1</sender>
+  </record>
+  <record>
+     <greeting>Hello Greting2</greeting>
+	 <sender>Hello Sender2</sender>
+  </record>
+</dataset>
