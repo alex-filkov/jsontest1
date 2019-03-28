@@ -1,0 +1,41 @@
+<QuoteProducts>
+
+<Product>
+<ProductID>5aa372b3-f79a-e411-80e3-c4346baced66</ProductID>
+<ProductName>Solar Panel, 20 Cells, for domestic applications</ProductName>
+<ProductNumber>801</ProductNumber>
+<ProductType>Solar Panels</ProductType>
+<ProductPricePerUnit>450</ProductPricePerUnit>
+<ProductBarcode>789456123</ProductBarcode>
+</Product>
+
+<Product>
+<ProductID>0a1fc6cf-f79a-e411-80e3-c4346baced67</ProductID>
+<ProductName>Solar Panel, 40 Cells, mounted array</ProductName>
+<ProductNumber>802</ProductNumber>
+<ProductType>Solar Panels</ProductType>
+<ProductPricePerUnit>850</ProductPricePerUnit>
+<ProductBarcode>321654987</ProductBarcode>
+</Product>
+
+<Product>
+<ProductID>9d5aecde-f79a-e411-80e3-c4346baced68</ProductID>
+<ProductName>Solar Boiler, wall-hung</ProductName>
+<ProductNumber>803</ProductNumber>
+<ProductType>Solar Boilers</ProductType>
+<ProductPricePerUnit>1500</ProductPricePerUnit>
+<ProductBarcode>987654123</ProductBarcode>
+</Product>
+
+<Product>
+<ProductID>80c13d0e-f89a-e411-80e3-c4346baced69</ProductID>
+<ProductName>
+High Capacity Heat Pump with Two Speed operation and Ideal Humidity
+</ProductName>
+<ProductNumber>804</ProductNumber>
+<ProductType>Heat Pumps</ProductType>
+<ProductPricePerUnit>6000</ProductPricePerUnit>
+<ProductBarcode>456321987</ProductBarcode>
+</Product>
+
+</QuoteProducts>
