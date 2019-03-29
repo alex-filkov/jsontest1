@@ -2,6 +2,7 @@
 function remoteFunction() 
 {
   console.log('remoteFunction called');
+  readMLmembers();
 }
 
 function readMLmembers()
